@@ -1,7 +1,7 @@
-- 👋 Hola, mi nombre es Maximiliano Rocca  
-- 👀Muy interesado por la programación, realizando cursos y aprendiendo por mi cuenta para poder tener mas conocimientos
-- 🌱Actualmente estoy por finalizar el curso Desarrollo Web Fullstack en Digital House y arrancando con Tecnicatura en Programación de Sistemas en la UCES.
-- 💞️ Estoy buscando colaborar como FrontEnd Developer
+- 👋 Hola, mi nombre es Maximiliano Rocca - Programador Web FullStack - 
+- 👀 Muy interesado por la programación, realizando cursos y aprendiendo por mi cuenta para poder tener mas conocimientos
+- 🌱Actualmente cursando la carrera Tecnicatura en Programación de Sistemas en la UCES.
+- 💞️ Estoy buscando colaborar como FrontEnd Developer, backEnd Developer o Fullstack Developer (React, NodeJS).
 - 📫como contactarme: maxi.rocca99@gmail.com
 
 <!---
